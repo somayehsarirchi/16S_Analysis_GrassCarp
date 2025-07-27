@@ -81,9 +81,9 @@ This folder includes all major visualizations and test results:
 
 If you use this repository or its scripts, please cite it as:
 
+Somayeh Sarirchi (2025). *16S rRNA Gut Microbiome Analysis in Grass Carp*. GitHub repository: https://github.com/somayehsarirchi/16S_Analysis_GrassCarp  
+DOI: [10.5281/zenodo.16493433](https://doi.org/10.5281/zenodo.16493433)
 
-Somayeh Sarirchi (2025). 16S rRNA Gut Microbiome Analysis in Grass Carp. GitHub repository: https://github.com/somayehsarirchi/16S_Analysis_GrassCarp
-DOI: [pending - Zenodo]
 
 
 ---
