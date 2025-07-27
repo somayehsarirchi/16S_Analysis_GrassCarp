@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it using the following metadata."
+authors:
+  - family-names: Sarirchi
+    given-names: Somayeh
+    orcid: https://orcid.org/0000-0002-2964-8447
+title: "16S rRNA Gut Microbiome Analysis in Grass Carp"
+version: "1.0.0.1"
+date-released: 2025-07-27
+doi: 10.5281/zenodo.16493433
+repository-code: https://github.com/somayehsarirchi/16S_Analysis_GrassCarp
+url: https://github.com/somayehsarirchi/16S_Analysis_GrassCarp
